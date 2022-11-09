@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/demo-expense-app/static/css/main.4ad788c2.css",
-    "main.js": "/demo-expense-app/static/js/main.5f366e20.js",
-    "static/media/Congrat.svg": "/demo-expense-app/static/media/Congrat.36e5d30d22006497661e.svg",
-    "index.html": "/demo-expense-app/index.html",
-    "main.4ad788c2.css.map": "/demo-expense-app/static/css/main.4ad788c2.css.map",
-    "main.5f366e20.js.map": "/demo-expense-app/static/js/main.5f366e20.js.map"
+    "main.css": "/static/css/main.fb41d37f.css",
+    "main.js": "/static/js/main.5f366e20.js",
+    "static/media/Congrat.svg": "/static/media/Congrat.36e5d30d22006497661e.svg",
+    "index.html": "/index.html",
+    "main.fb41d37f.css.map": "/static/css/main.fb41d37f.css.map",
+    "main.5f366e20.js.map": "/static/js/main.5f366e20.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ad788c2.css",
+    "static/css/main.fb41d37f.css",
     "static/js/main.5f366e20.js"
   ]
 }
